@@ -4,5 +4,5 @@ Git kurs
 
 
 
-Dette er et øveprosjekt der vi viser frem hvordan git fungerer!
+Dette er et ##øveprosjekt der vi viser frem hvordan git fungerer!
 
